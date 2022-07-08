@@ -12,7 +12,6 @@ String R=res+"";
         l.setBounds(20, 50, 200, 100);
         JLabel l2 = new JLabel("DHULAPPALY MANADAL SECUNDRABAD");
         l2.setBounds(20, 70, 300, 100);
-
         JLabel l3, l4, l5, t1, t2;
         l3 = new JLabel("TRANSACTION TYPE:");
         l3.setBounds(20, 100, 200, 100);
